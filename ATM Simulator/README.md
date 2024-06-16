@@ -7,13 +7,7 @@ This Java application simulates an Automated Teller Machine (ATM) where users ca
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
-- [How to Run](#how-to-run)
-- [Code Explanation](#code-explanation)
-  - [BankAccount Class](#bankaccount-class)
-  - [Transaction Class](#transaction-class)
-  - [ATMSimulator Class](#atmsimulator-class)
-- [Contributors](#contributors)
-- [License](#license)
+
 
 ## Features
 
