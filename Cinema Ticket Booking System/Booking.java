@@ -19,4 +19,4 @@ public class Booking {
     public String toString() {
         return "Movie: " + show.getMovie().getTitle() + ", Show Time: " + show.getShowTime() + ", Tickets: " + numberOfTickets;
     }
-}￼Enter
+}
